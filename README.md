@@ -7,6 +7,7 @@ During the execution process, some questions/inconsistencies identified that I w
   1. The task stated that csv files were uploaded, but in reality they are xlsx files.
   2. In the 2nd exercise, it is unclear whether the top 3 action changes are for each month or for the entire period of activity. I assumed that this applies to each month and obtained the corresponding data for both months.
   3. In the 4th exercise, inconsistencies were found in the source data, including the absence of employees in the "user_team" table. It is unclear why some records contain empty values in the "updated_at" column, as well as how to find out when a new employee joined the team. I resolved this issue by assuming that employees with empty "updated_at" values came before 12/14/2019 and the data is up-to-date. I would like to get your opinion on this and clarify what to do with the missing data.
+  4. It looks like there is no permission to read the folder and the files in it using the Google API. So I copied the folder to my Google Drive https://drive.google.com/drive/folders/1fQNzHY4t3eta0-eFlKl-VTpzTSESksV5 and gave my service account read access. I hope this won't be an obstacle to accepting the task.
 
 ## Exercise 1
 Attached is the file exercice_1.xlsx, exported using Python code. 

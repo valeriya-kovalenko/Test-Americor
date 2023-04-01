@@ -1,6 +1,6 @@
 # Test-Americor Task Results
 Thank you for reviewing the task results. 
-During the work, some questions/inconsistencies arose, which I would like to clarify/coordinate with you in a real situation.
+During the execution process, some questions/mismatches arose that I would clarify with the team/client in a real situation.
 
 ## Questions/Inconsistencies
 Here are some of the questions/inconsistencies identified:

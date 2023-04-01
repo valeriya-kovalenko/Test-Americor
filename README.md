@@ -27,5 +27,5 @@ As well as see results in a google sheet with the API https://docs.google.com/sp
 The files contain each sales team headcount as of 12/14/2019.
 
 ## Conclusion
-If you have any questions or comments, please contact me in a convenient format. I am always ready to discuss any issues and solve all problems together.
+If you have any questions or comments, please contact me in a convenient format. I am always ready to discuss any issues and solve it together.
 ### Thank you!
